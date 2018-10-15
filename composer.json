@@ -1,11 +1,15 @@
 {
-  "name": "ralouphie/mimey",
+  "name": "koenvh1/mimey",
   "description": "PHP package for converting file extensions to MIME types and vice versa.",
   "license": "MIT",
   "authors": [
     {
       "name": "Ralph Khattar",
       "email": "ralph.khattar@gmail.com"
+    },
+    {
+      "name": "Koen van Hove",
+      "email": "koen@koenvh.nl"
     }
   ],
   "require": {
