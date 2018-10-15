@@ -14,6 +14,7 @@ application/x-httpd-php-source					php
 application/x-php					php
 audio/amr					amr
 audio/mpeg					mp3 mpga mp2 mp2a m2a m3a
+audio/opus					opus
 image/jpeg					jpg jpeg jpe
 image/x-ms-bmp					bmp
 text/php					php
