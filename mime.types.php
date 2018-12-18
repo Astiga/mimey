@@ -38,6 +38,10 @@
     array (
       0 => 'audio/amr',
     ),
+    'ape' => 
+    array (
+      0 => 'audio/ape',
+    ),
     'mp3' => 
     array (
       0 => 'audio/mpeg',
@@ -4000,6 +4004,10 @@
     'audio/amr' => 
     array (
       0 => 'amr',
+    ),
+    'audio/ape' => 
+    array (
+      0 => 'ape',
     ),
     'audio/mpeg' => 
     array (
