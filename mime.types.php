@@ -42,6 +42,10 @@
     array (
       0 => 'audio/ape',
     ),
+    'm4b' => 
+    array (
+      0 => 'audio/mp4a-latm',
+    ),
     'mp3' => 
     array (
       0 => 'audio/mpeg',
@@ -4008,6 +4012,10 @@
     'audio/ape' => 
     array (
       0 => 'ape',
+    ),
+    'audio/mp4a-latm' => 
+    array (
+      0 => 'm4b',
     ),
     'audio/mpeg' => 
     array (
